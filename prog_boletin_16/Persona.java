@@ -5,6 +5,6 @@ public class Persona implements IPodeCantar {
 
     @Override
     public void cantar() {
-        System.out.println("Persona Canta");
+        System.out.println("Persona Cantando");
     }
 }
